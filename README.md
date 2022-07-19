@@ -1,2 +1,2 @@
 #### Multi-Language Repository
-I hello-world packet file for everyone!
+Just say "hello world" in programming language for everyone!
